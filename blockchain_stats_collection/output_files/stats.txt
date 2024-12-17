@@ -1,0 +1,4 @@
+overall stats:total number of accounts: 7297
+total balance: 248776008925
+Average balance: 42201188
+Active number of accounts(having done a transcation in last 60days): 7628
